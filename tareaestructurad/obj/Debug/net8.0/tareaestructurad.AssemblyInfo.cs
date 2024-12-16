@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tareaestructurad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0592518cc37507568666bd5ac8c8989b1a072397")]
 [assembly: System.Reflection.AssemblyProductAttribute("tareaestructurad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tareaestructurad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
