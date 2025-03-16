@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\bin\Debug\net9.0\Semana_13_Carmita.exe
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\bin\Debug\net9.0\Semana_13_Carmita.deps.json
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\bin\Debug\net9.0\Semana_13_Carmita.runtimeconfig.json
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\bin\Debug\net9.0\Semana_13_Carmita.dll
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\bin\Debug\net9.0\Semana_13_Carmita.pdb
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.AssemblyInfo.cs
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.sourcelink.json
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.dll
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\refint\Semana_13_Carmita.dll
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.pdb
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\Semana_13_Carmita.genruntimeconfig.cache
+C:\Users\USER\Desktop\estructura-de-datos-2025\Semana_13_Carmita\obj\Debug\net9.0\ref\Semana_13_Carmita.dll
