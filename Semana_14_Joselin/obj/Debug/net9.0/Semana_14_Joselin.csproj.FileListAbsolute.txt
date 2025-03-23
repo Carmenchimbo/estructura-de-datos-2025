@@ -1,0 +1,15 @@
+C:\Estefani\Semana_14_Joselin\bin\Debug\net9.0\Semana_14_Joselin.exe
+C:\Estefani\Semana_14_Joselin\bin\Debug\net9.0\Semana_14_Joselin.deps.json
+C:\Estefani\Semana_14_Joselin\bin\Debug\net9.0\Semana_14_Joselin.runtimeconfig.json
+C:\Estefani\Semana_14_Joselin\bin\Debug\net9.0\Semana_14_Joselin.dll
+C:\Estefani\Semana_14_Joselin\bin\Debug\net9.0\Semana_14_Joselin.pdb
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.AssemblyInfoInputs.cache
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.AssemblyInfo.cs
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.csproj.CoreCompileInputs.cache
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.sourcelink.json
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.dll
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\refint\Semana_14_Joselin.dll
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.pdb
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\Semana_14_Joselin.genruntimeconfig.cache
+C:\Estefani\Semana_14_Joselin\obj\Debug\net9.0\ref\Semana_14_Joselin.dll
