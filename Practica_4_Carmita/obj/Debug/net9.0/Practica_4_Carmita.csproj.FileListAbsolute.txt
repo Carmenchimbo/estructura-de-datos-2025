@@ -1,0 +1,15 @@
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\bin\Debug\net9.0\Practica_4_Carmita.exe
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\bin\Debug\net9.0\Practica_4_Carmita.deps.json
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\bin\Debug\net9.0\Practica_4_Carmita.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\bin\Debug\net9.0\Practica_4_Carmita.dll
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\bin\Debug\net9.0\Practica_4_Carmita.pdb
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.sourcelink.json
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.dll
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\refint\Practica_4_Carmita.dll
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.pdb
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\Practica_4_Carmita.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\Practica_4_Carmita\obj\Debug\net9.0\ref\Practica_4_Carmita.dll
